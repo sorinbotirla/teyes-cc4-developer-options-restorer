@@ -1,4 +1,4 @@
-# T'Eyes developer options restorer
+# T'Eyes CC4PRO developer options restorer
 
 1. Disable automatic date and time. Set the date to November 11, 2019, and the time to 11:11 AM.
 
