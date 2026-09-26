@@ -1,0 +1,8 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/instructions" android:title="@string/instructions" />
+    <item android:id="@+id/readKey" android:title="@string/read_key" />
+    <item android:id="@+id/accessibility" android:title="@string/accessibility" />
+    <item android:id="@+id/quickSettings" android:title="@string/quick_settings" />
+    <item android:id="@+id/about" android:title="@string/about" />
+    <item android:id="@+id/exit" android:title="@string/exit" />
+</menu>

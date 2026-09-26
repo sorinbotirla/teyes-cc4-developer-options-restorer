@@ -1,0 +1,25 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:orientation="vertical" android:background="#101923" android:padding="24dp">
+    <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:gravity="center_vertical" android:orientation="horizontal">
+        <TextView android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content"
+            android:text="@string/app_name" android:textColor="#F2F5F8" android:textSize="22sp" android:textStyle="bold" />
+        <ImageButton android:id="@+id/menuButton" android:layout_width="56dp" android:layout_height="56dp"
+            android:background="?android:attr/selectableItemBackgroundBorderless"
+            android:src="@drawable/ic_menu" android:contentDescription="@string/menu" android:padding="14dp" />
+    </LinearLayout>
+    <TextView android:id="@+id/helperStatus" android:layout_width="match_parent" android:layout_height="wrap_content"
+        android:textColor="#80DBCF" android:textSize="14sp" android:paddingTop="8dp" android:paddingBottom="20dp" />
+    <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#31404F" />
+    <ScrollView android:id="@+id/contentScroll" android:layout_width="match_parent" android:layout_height="0dp"
+        android:layout_weight="1" android:fillViewport="true">
+        <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content" android:orientation="vertical"
+            android:paddingTop="24dp" android:paddingBottom="24dp">
+            <TextView android:id="@+id/pageTitle" android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:textColor="#F2F5F8" android:textSize="28sp" android:textStyle="bold" android:paddingBottom="18dp" />
+            <TextView android:id="@+id/pageContent" android:layout_width="match_parent" android:layout_height="wrap_content"
+                android:textColor="#CCD7E2" android:textSize="18sp" android:lineSpacingExtra="6dp" android:textIsSelectable="true" />
+        </LinearLayout>
+    </ScrollView>
+</LinearLayout>

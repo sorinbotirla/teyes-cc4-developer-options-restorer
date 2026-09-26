@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">T\'Eyes developer options restorer</string>
+    <string name="qs_helper_name">T\'Eyes developer options restorer</string>
+    <string name="qs_helper_description">Opens the native Android Quick Settings panel when you choose Open Android Quick Settings in this app. Does not read your screen or press tiles.</string>
+    <string name="menu">Menu</string>
+    <string name="instructions">Instructions</string>
+    <string name="read_key">Read Developer Options Key</string>
+    <string name="accessibility">Accessibility Settings</string>
+    <string name="quick_settings">Open Android Quick Settings</string>
+    <string name="about">About</string>
+    <string name="exit">Exit</string>
+    <string name="close">Close</string>
+    <string name="app_info">App Info</string>
+    <string name="welcome_title">Developer options, within reach.</string>
+    <string name="welcome_body">Use the menu in the top-right corner to view instructions, read your device\'s key or open the native Android Quick Settings panel.</string>
+    <string name="helper_active">Accessibility helper is ready</string>
+    <string name="helper_inactive">Accessibility helper is not enabled</string>
+    <string name="reading">Reading the key stored on this device…</string>
+    <string name="key_read_finished">Key check complete. Choose Read Developer Options Key in the menu to check again.</string>
+    <string name="about_body">V.0.6.2 made by Sorin Botirla (And your AI Friend Chat GPT 6 Astra Ultra)</string>
+    <string name="accessibility_fallback">Select T\'Eyes developer options restorer in the Accessibility list, then enable its service.</string>
+    <string name="accessibility_unavailable">Open Android Settings → Accessibility manually, then select T\'Eyes developer options restorer.</string>
+    <string name="helper_required">Enable the accessibility helper</string>
+    <string name="helper_required_body">Enable T\'Eyes developer options restorer in Accessibility Settings first.\n\nIf Android blocks it, open App Info, tap the top-right three-dot menu and allow restricted settings. Then return to Accessibility Settings and enable the service.</string>
+    <string name="app_info_unavailable">Open Android Settings → Apps → T\'Eyes developer options restorer manually.</string>
+    <string name="panel_requested">The native Quick Settings panel was requested. Tap the Wireless debugging tile and accept the confirmation.\n\nIf the tile is missing, add it from Developer Options → Quick settings developer tiles. Opening the panel does not enable Wireless debugging automatically.</string>
+    <string name="panel_failed">Android did not accept the request to open Quick Settings. Check that the accessibility service is enabled, then try again.</string>
+    <string name="instructions_body">1. Disable automatic date and time. Set the date to November 11, 2019, and the time to 11:11 AM.\n\n2. Go to System Settings → System → Default Settings and enter 502105. Do not change any of the switches that appear.\n\n3. While the time is still 11:11 AM, go to Android Settings → About and tap Build Number seven times to enable Developer Options.\n\n4. Install T\'Eyes developer options restorer.\n\n5. Open Android Settings → Accessibility and select T\'Eyes developer options restorer. Try to enable the service. If Android blocks it, continue with the next step.\n\n6. Go to Android Settings → Apps → T\'Eyes developer options restorer. Tap the small three-dot menu in the top-right corner and allow restricted settings. Do not confuse this with the split-screen button on the navigation bar.\n\n7. Return to Accessibility and enable the service for T\'Eyes developer options restorer.\n\n8. Go to Developer Options → Quick settings developer tiles and enable the Wireless debugging tile.\n\n9. Open T\'Eyes developer options restorer. Tap the hamburger menu in the top-right corner and choose Open Android Quick Settings.\n\n10. The native Android Quick Settings panel will open. Tap Wireless debugging to enable it.\n\n11. Connect from the same Wi-Fi network to the head unit\'s IP address, for example 192.168.x.x:7575. Use port 7575, not 5555. Confirm the debugging permission in the popup on the head unit.\n\n12. Set the date and time back to automatic.</string>
+</resources>
