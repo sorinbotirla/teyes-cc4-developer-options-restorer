@@ -2,19 +2,19 @@
 
 1. Disable automatic date and time. Set the date to November 11, 2019, and the time to 11:11 AM.
 
-2. Go to System Settings → System → Default Settings and enter 502105. Do not change any of the switches that appear.
+2. Install T'Eyes developer options restorer and open the menu then tap on "Read the developer options key". Note that key.
 
-3. While the time is still 11:11 AM, go to Android Settings → About and tap Build Number seven times to enable Developer Options.
+3. Go to System Settings > System > Default Settings and enter 502105 (or 786430 or the key you just read in the previous step). Do not change any of the switches that appear.
 
-4. Install T'Eyes developer options restorer.
+4. While the time is still 11:11 AM, go to Android Settings > About and tap Build Number 7 times to enable Developer Options.
 
-5. Open Android Settings → Accessibility and select T'Eyes developer options restorer. Try to enable the service. If Android blocks it, continue with the next step.
+5. Open Android Settings > Accessibility and select T'Eyes developer options restorer. Try to enable the service. It will get blocked, but this blocking is essential to continue, so continue with the next step.
 
-6. Go to Android Settings → Apps → T'Eyes developer options restorer. Tap the small three-dot menu in the top-right corner and allow restricted settings. Do not confuse this with the split-screen button on the navigation bar.
+6. Go to Android Settings > Apps > T'Eyes developer options restorer. Tap the small three-dot menu in the top-right corner and allow restricted settings. Do not confuse this with the split-screen button on the navigation bar.
 
 7. Return to Accessibility and enable the service for T'Eyes developer options restorer.
 
-8. Go to Developer Options → Quick settings developer tiles and enable the Wireless debugging tile.
+8. Go to Developer Options > Quick settings developer tiles and enable the Wireless debugging tile.
 
 9. Open T'Eyes developer options restorer. Tap the hamburger menu in the top-right corner and choose Open Android Quick Settings.
 
