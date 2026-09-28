@@ -10,3 +10,9 @@ local.properties
 *.zip
 signing.properties
 .DS_Store
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.tiff
+/images/
