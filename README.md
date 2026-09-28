@@ -1,5 +1,34 @@
 # T'Eyes CC4PRO developer options restorer
 
+<br />
+
+<table>
+  <thead>
+    <tr>
+      <th></th>
+      <th></th>
+      <th></th>
+      <th></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img src="https://raw.githubusercontent.com/sorinbotirla/teyes-cc4-developer-options-restorer/refs/heads/main/images/bae1647c-52c1-4e3a-b537-06ff3ece4649.jpg" />
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/sorinbotirla/teyes-cc4-developer-options-restorer/refs/heads/main/images/d6e303b9-2ddf-4b5f-873e-fa252227c800.jpg" />
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/sorinbotirla/teyes-cc4-developer-options-restorer/refs/heads/main/images/26877b4f-cf5c-4ca8-8129-284e0840105a.jpg" />
+      </td>
+      <td>
+        <img src="https://raw.githubusercontent.com/sorinbotirla/teyes-cc4-developer-options-restorer/refs/heads/main/images/4b0522d7-6b61-42f2-8e23-b26d7fa1d5d3.jpg" />
+      </td>
+    </tr>
+  </thead>
+</table>
+
 1. Disable automatic date and time. Set the date to November 11, 2019, and the time to 11:11 AM.
 
 2. Install T'Eyes developer options restorer and open the menu then tap on "Read the developer options key". Note that key.
