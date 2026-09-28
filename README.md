@@ -3,26 +3,18 @@
 <br />
 
 <table>
-  <thead>
-    <tr>
-      <th></th>
-      <th></th>
-      <th></th>
-      <th></th>
-    </tr>
-  </thead>
   <tbody>
     <tr>
-      <td>
+      <td width="25%">
         <img src="https://raw.githubusercontent.com/sorinbotirla/teyes-cc4-developer-options-restorer/refs/heads/main/images/bae1647c-52c1-4e3a-b537-06ff3ece4649.jpg" />
       </td>
-      <td>
+      <td width="25%">
         <img src="https://raw.githubusercontent.com/sorinbotirla/teyes-cc4-developer-options-restorer/refs/heads/main/images/d6e303b9-2ddf-4b5f-873e-fa252227c800.jpg" />
       </td>
-      <td>
+      <td width="25%">
         <img src="https://raw.githubusercontent.com/sorinbotirla/teyes-cc4-developer-options-restorer/refs/heads/main/images/26877b4f-cf5c-4ca8-8129-284e0840105a.jpg" />
       </td>
-      <td>
+      <td width="25%">
         <img src="https://raw.githubusercontent.com/sorinbotirla/teyes-cc4-developer-options-restorer/refs/heads/main/images/4b0522d7-6b61-42f2-8e23-b26d7fa1d5d3.jpg" />
       </td>
     </tr>
